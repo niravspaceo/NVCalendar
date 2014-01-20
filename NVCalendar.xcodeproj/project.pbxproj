@@ -21,6 +21,8 @@
 		540A7942188938020080C8D9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 540A7924188938010080C8D9 /* UIKit.framework */; };
 		540A794A188938020080C8D9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 540A7948188938020080C8D9 /* InfoPlist.strings */; };
 		540A794C188938020080C8D9 /* CalendarDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 540A794B188938020080C8D9 /* CalendarDemoTests.m */; };
+		540A7957188943280080C8D9 /* NVCalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 540A7956188943280080C8D9 /* NVCalendar.m */; };
+		541DB8F1188A4AA000CCFAA0 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 541DB8F0188A4AA000CCFAA0 /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,25 +36,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		540A791D188938010080C8D9 /* CalendarDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalendarDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		540A791D188938010080C8D9 /* NVCalendar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NVCalendar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		540A7920188938010080C8D9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		540A7922188938010080C8D9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		540A7924188938010080C8D9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		540A7928188938020080C8D9 /* CalendarDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CalendarDemo-Info.plist"; sourceTree = "<group>"; };
+		540A7928188938020080C8D9 /* NVCalendar-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NVCalendar-Info.plist"; sourceTree = "<group>"; };
 		540A792A188938020080C8D9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		540A792C188938020080C8D9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		540A792E188938020080C8D9 /* CalendarDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CalendarDemo-Prefix.pch"; sourceTree = "<group>"; };
+		540A792E188938020080C8D9 /* NVCalendar-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NVCalendar-Prefix.pch"; sourceTree = "<group>"; };
 		540A792F188938020080C8D9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		540A7930188938020080C8D9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		540A7933188938020080C8D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		540A7935188938020080C8D9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		540A7936188938020080C8D9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		540A7938188938020080C8D9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		540A793E188938020080C8D9 /* CalendarDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalendarDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		540A793E188938020080C8D9 /* NVCalendarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NVCalendarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		540A793F188938020080C8D9 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		540A7947188938020080C8D9 /* CalendarDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CalendarDemoTests-Info.plist"; sourceTree = "<group>"; };
+		540A7947188938020080C8D9 /* NVCalendarTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NVCalendarTests-Info.plist"; sourceTree = "<group>"; };
 		540A7949188938020080C8D9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		540A794B188938020080C8D9 /* CalendarDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalendarDemoTests.m; sourceTree = "<group>"; };
+		540A7955188943280080C8D9 /* NVCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NVCalendar.h; sourceTree = "<group>"; };
+		540A7956188943280080C8D9 /* NVCalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NVCalendar.m; sourceTree = "<group>"; };
+		541DB8F0188A4AA000CCFAA0 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +65,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				541DB8F1188A4AA000CCFAA0 /* QuartzCore.framework in Frameworks */,
 				540A7923188938010080C8D9 /* CoreGraphics.framework in Frameworks */,
 				540A7925188938010080C8D9 /* UIKit.framework in Frameworks */,
 				540A7921188938010080C8D9 /* Foundation.framework in Frameworks */,
@@ -92,8 +98,8 @@
 		540A791E188938010080C8D9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				540A791D188938010080C8D9 /* CalendarDemo.app */,
-				540A793E188938020080C8D9 /* CalendarDemoTests.xctest */,
+				540A791D188938010080C8D9 /* NVCalendar.app */,
+				540A793E188938020080C8D9 /* NVCalendarTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -101,6 +107,7 @@
 		540A791F188938010080C8D9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				541DB8F0188A4AA000CCFAA0 /* QuartzCore.framework */,
 				540A7920188938010080C8D9 /* Foundation.framework */,
 				540A7922188938010080C8D9 /* CoreGraphics.framework */,
 				540A7924188938010080C8D9 /* UIKit.framework */,
@@ -112,6 +119,7 @@
 		540A7926188938020080C8D9 /* CalendarDemo */ = {
 			isa = PBXGroup;
 			children = (
+				5467E106188CE0FA002045FD /* NVCalendar */,
 				540A792F188938020080C8D9 /* AppDelegate.h */,
 				540A7930188938020080C8D9 /* AppDelegate.m */,
 				540A7932188938020080C8D9 /* Main.storyboard */,
@@ -126,10 +134,10 @@
 		540A7927188938020080C8D9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				540A7928188938020080C8D9 /* CalendarDemo-Info.plist */,
+				540A7928188938020080C8D9 /* NVCalendar-Info.plist */,
 				540A7929188938020080C8D9 /* InfoPlist.strings */,
 				540A792C188938020080C8D9 /* main.m */,
-				540A792E188938020080C8D9 /* CalendarDemo-Prefix.pch */,
+				540A792E188938020080C8D9 /* NVCalendar-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -146,18 +154,27 @@
 		540A7946188938020080C8D9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				540A7947188938020080C8D9 /* CalendarDemoTests-Info.plist */,
+				540A7947188938020080C8D9 /* NVCalendarTests-Info.plist */,
 				540A7948188938020080C8D9 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		5467E106188CE0FA002045FD /* NVCalendar */ = {
+			isa = PBXGroup;
+			children = (
+				540A7955188943280080C8D9 /* NVCalendar.h */,
+				540A7956188943280080C8D9 /* NVCalendar.m */,
+			);
+			name = NVCalendar;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		540A791C188938010080C8D9 /* CalendarDemo */ = {
+		540A791C188938010080C8D9 /* NVCalendar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 540A794F188938020080C8D9 /* Build configuration list for PBXNativeTarget "CalendarDemo" */;
+			buildConfigurationList = 540A794F188938020080C8D9 /* Build configuration list for PBXNativeTarget "NVCalendar" */;
 			buildPhases = (
 				540A7919188938010080C8D9 /* Sources */,
 				540A791A188938010080C8D9 /* Frameworks */,
@@ -167,14 +184,14 @@
 			);
 			dependencies = (
 			);
-			name = CalendarDemo;
+			name = NVCalendar;
 			productName = CalendarDemo;
-			productReference = 540A791D188938010080C8D9 /* CalendarDemo.app */;
+			productReference = 540A791D188938010080C8D9 /* NVCalendar.app */;
 			productType = "com.apple.product-type.application";
 		};
-		540A793D188938020080C8D9 /* CalendarDemoTests */ = {
+		540A793D188938020080C8D9 /* NVCalendarTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 540A7952188938020080C8D9 /* Build configuration list for PBXNativeTarget "CalendarDemoTests" */;
+			buildConfigurationList = 540A7952188938020080C8D9 /* Build configuration list for PBXNativeTarget "NVCalendarTests" */;
 			buildPhases = (
 				540A793A188938020080C8D9 /* Sources */,
 				540A793B188938020080C8D9 /* Frameworks */,
@@ -185,9 +202,9 @@
 			dependencies = (
 				540A7944188938020080C8D9 /* PBXTargetDependency */,
 			);
-			name = CalendarDemoTests;
+			name = NVCalendarTests;
 			productName = CalendarDemoTests;
-			productReference = 540A793E188938020080C8D9 /* CalendarDemoTests.xctest */;
+			productReference = 540A793E188938020080C8D9 /* NVCalendarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +221,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 540A7918188938010080C8D9 /* Build configuration list for PBXProject "CalendarDemo" */;
+			buildConfigurationList = 540A7918188938010080C8D9 /* Build configuration list for PBXProject "NVCalendar" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -217,8 +234,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				540A791C188938010080C8D9 /* CalendarDemo */,
-				540A793D188938020080C8D9 /* CalendarDemoTests */,
+				540A791C188938010080C8D9 /* NVCalendar */,
+				540A793D188938020080C8D9 /* NVCalendarTests */,
 			);
 		};
 /* End PBXProject section */
@@ -250,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				540A7937188938020080C8D9 /* ViewController.m in Sources */,
+				540A7957188943280080C8D9 /* NVCalendar.m in Sources */,
 				540A7931188938020080C8D9 /* AppDelegate.m in Sources */,
 				540A792D188938020080C8D9 /* main.m in Sources */,
 			);
@@ -268,7 +286,7 @@
 /* Begin PBXTargetDependency section */
 		540A7944188938020080C8D9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 540A791C188938010080C8D9 /* CalendarDemo */;
+			target = 540A791C188938010080C8D9 /* NVCalendar */;
 			targetProxy = 540A7943188938020080C8D9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -379,9 +397,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "CalendarDemo/CalendarDemo-Prefix.pch";
-				INFOPLIST_FILE = "CalendarDemo/CalendarDemo-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "CalendarDemo/NVCalendar-Prefix.pch";
+				INFOPLIST_FILE = "CalendarDemo/NVCalendar-Info.plist";
+				PRODUCT_NAME = NVCalendar;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -392,9 +410,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "CalendarDemo/CalendarDemo-Prefix.pch";
-				INFOPLIST_FILE = "CalendarDemo/CalendarDemo-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "CalendarDemo/NVCalendar-Prefix.pch";
+				INFOPLIST_FILE = "CalendarDemo/NVCalendar-Info.plist";
+				PRODUCT_NAME = NVCalendar;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -415,8 +433,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "CalendarDemoTests/CalendarDemoTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "CalendarDemoTests/NVCalendarTests-Info.plist";
+				PRODUCT_NAME = NVCalendarTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -434,8 +452,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CalendarDemo/CalendarDemo-Prefix.pch";
-				INFOPLIST_FILE = "CalendarDemoTests/CalendarDemoTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "CalendarDemoTests/NVCalendarTests-Info.plist";
+				PRODUCT_NAME = NVCalendarTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -444,7 +462,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		540A7918188938010080C8D9 /* Build configuration list for PBXProject "CalendarDemo" */ = {
+		540A7918188938010080C8D9 /* Build configuration list for PBXProject "NVCalendar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				540A794D188938020080C8D9 /* Debug */,
@@ -453,21 +471,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		540A794F188938020080C8D9 /* Build configuration list for PBXNativeTarget "CalendarDemo" */ = {
+		540A794F188938020080C8D9 /* Build configuration list for PBXNativeTarget "NVCalendar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				540A7950188938020080C8D9 /* Debug */,
 				540A7951188938020080C8D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		540A7952188938020080C8D9 /* Build configuration list for PBXNativeTarget "CalendarDemoTests" */ = {
+		540A7952188938020080C8D9 /* Build configuration list for PBXNativeTarget "NVCalendarTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				540A7953188938020080C8D9 /* Debug */,
 				540A7954188938020080C8D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
