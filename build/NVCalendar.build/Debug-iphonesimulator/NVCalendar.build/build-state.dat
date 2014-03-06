@@ -1,0 +1,393 @@
+TNVCalendar
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.pch CalendarDemo/NVCalendar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.o /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.o /Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.o /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.o /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar normal i386
+cCompileAssetCatalog /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Images.xcassets
+cCopyStringsFile /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/en.lproj/InfoPlist.strings CalendarDemo/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Base.lproj/Main.storyboard
+cProcessInfoPlistFile /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Info.plist /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Info.plist
+cGenerateDSYMFile /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app.dSYM /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar
+cTouch /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843D50000000000445870
+t1383613397
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843D8000000000088C680
+t1383613400
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000527843DB00000000004848F0
+t1383613403
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843DD0000000001DB9910
+t1383613405
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m
+c0000000053141F8C0000000000000751
+t1393827724
+s1873
+
+N/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Base.lproj/Main.storyboard
+c0000000052DA7E0C00000000000011EB
+t1390050828
+s4587
+
+N/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Images.xcassets
+c0000000052D900820000000000000088
+t1389953154
+s136
+
+N/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Info.plist
+c00000000531184AA00000000000004BE
+t1393657002
+s1214
+
+N/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Prefix.pch
+c0000000052D900820000000000000158
+t1389953154
+s344
+
+N/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m
+c00000000530AE49B0000000000000C43
+t1393222811
+s3139
+
+N/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/en.lproj/InfoPlist.strings
+c0000000052D90082000000000000002D
+t1389953154
+s45
+
+N/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m
+c0000000052D90082000000000000015F
+t1389953154
+s351
+
+N/Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m
+c0000000053156915000000000000284E
+t1393912085
+s10318
+
+N/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app
+t1394080231
+s306
+
+N/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app.dSYM
+t2
+s0
+
+N/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Base.lproj/Main.storyboardc
+t1394080231
+s170
+
+N/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Info.plist
+t1394080231
+s1029
+
+N/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar
+t1394080219
+s45712
+
+N/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/PkgInfo
+t1394080231
+s8
+
+N/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/en.lproj/InfoPlist.strings
+t1394080219
+s42
+
+N/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.o
+t1394080217
+s65232
+
+N/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.LinkFileList
+c000000005317F9D70000000000000213
+t1394080215
+s531
+
+N/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.o
+t1394080217
+s91676
+
+N/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.o
+t1394080217
+s55140
+
+N/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.o
+t1394080217
+s3656
+
+N/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/assetcatalog_dependencies.txt
+t1394080229
+s351
+
+N/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/assetcatalog_generated_info.plist
+t1394080229
+s525
+
+N/var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.pch
+t1394080216
+s113960
+
+CBuild AST from /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m
+r0
+
+CBuild AST from /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m
+r0
+
+CBuild AST from /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m
+r0
+
+CBuild AST from /Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbe2ec75731c8b841^70e9d85731c8b841^---0#1#1#--18"Check dependencies36"F82E8B32-BD13-4650-8221-0A7911505F6A-
+
+CCompileAssetCatalog /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Images.xcassets
+s415773019.434920
+e415773029.239311
+r1
+xCompileAssetCatalog
+x/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app
+x/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/LaunchImage-700-568h@2x.png
+o/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Assets.car
+o/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"CompileAssetCatalog build/Debug-iphonesimulator/NVCalendar.app CalendarDemo/Images.xcassets91"CompileAssetCatalog build/Debug-iphonesimulator/NVCalendar.app CalendarDemo/Images.xcassets37706f5b31c8b841^d0433d6531c8b841^-379"/* com.apple.actool.compilation-results *//Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/LaunchImage-700-568h@2x.png/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Assets.car/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Images.xcassets/0000000000000000^1115"CompileAssetCatalog build/Debug-iphonesimulator/NVCalendar.app CalendarDemo/Images.xcassets    cd /Users/macmini09/Desktop/CalendarDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Images.xcassets36"8FD1D81D-19F1-4EC7-BCAC-3E57E6EC6B4F-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CCompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.o /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415773016.891271
+e415773017.891155
+r1
+xCompileC
+xbuild/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.o
+x/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m
+d/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m199"CompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.o CalendarDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d56e45831c8b841^4223e45931c8b841^---0#0#1#-19%DVTDocumentLocation2@80"file://localhost/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m0000000000000000^3600"CompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.o CalendarDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macmini09/Desktop/CalendarDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/macmini09/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-generated-files.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-own-target-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-all-target-headers.hmap -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-project-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources/i386 -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources -F/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator -include /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch -MMD -MT dependencies -MF /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.dia -c /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.m -o /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.o36"148353C9-ACF6-4295-852D-FA387204CA2C-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CCompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.o /Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415773016.891264
+e415773018.054422
+r1
+xCompileC
+xbuild/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.o
+x/Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m
+d/Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m195"CompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.o NVCalendar/NVCalendar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c53e45831c8b841^a2ec0d5a31c8b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m0000000000000000^3590"CompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.o NVCalendar/NVCalendar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macmini09/Desktop/CalendarDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/macmini09/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-generated-files.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-own-target-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-all-target-headers.hmap -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-project-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources/i386 -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources -F/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator -include /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch -MMD -MT dependencies -MF /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.d --serialize-diagnostics /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.dia -c /Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.m -o /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.o36"E0F40511-7BE5-4696-A906-B27A50185949-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CCompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.o /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415773016.891241
+e415773018.053967
+r1
+xCompileC
+xbuild/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.o
+x/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m
+d/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.h
+d/Users/macmini09/Desktop/CalendarDemo/NVCalendar/NVCalendar.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m205"CompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.o CalendarDemo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c53e45831c8b841^d8d40d5a31c8b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m0000000000000000^3618"CompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.o CalendarDemo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macmini09/Desktop/CalendarDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/macmini09/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-generated-files.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-own-target-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-all-target-headers.hmap -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-project-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources/i386 -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources -F/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator -include /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch -MMD -MT dependencies -MF /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.dia -c /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/ViewController.m -o /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.o36"BA3C73E7-81E1-4D38-ABBE-2DACC3A38EEE-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CCompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.o /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415773016.891978
+e415773017.890515
+r1
+xCompileC
+xbuild/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.o
+x/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m
+d/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m185"CompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.o CalendarDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc878e45831c8b841^87f8e35931c8b841^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m0000000000000000^3558"CompileC build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.o CalendarDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macmini09/Desktop/CalendarDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/macmini09/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-generated-files.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-own-target-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-all-target-headers.hmap -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-project-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources/i386 -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources -F/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator -include /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch -MMD -MT dependencies -MF /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.dia -c /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/main.m -o /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.o36"6C35FC07-E7F2-44CB-A58F-3B8C54B36B58-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CCompileStoryboard /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Base.lproj/Main.storyboard
+s415773019.435262
+e415773031.689716
+r1
+xCompileStoryboard
+x/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard CalendarDemo/Base.lproj/Main.storyboard57"CompileStoryboard CalendarDemo/Base.lproj/Main.storyboard7c7f6f5b31c8b841^8e91b06731c8b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Base.lproj/Main.storyboard0000000000000000^840"CompileStoryboard CalendarDemo/Base.lproj/Main.storyboard    cd /Users/macmini09/Desktop/CalendarDemo    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Base.lproj/Main.storyboardc /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/Base.lproj/Main.storyboard36"DB7540EF-B676-426F-BF78-ECC6D6466884-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CCopyStringsFile /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/en.lproj/InfoPlist.strings CalendarDemo/en.lproj/InfoPlist.strings
+s415773019.434924
+e415773019.437828
+r1
+xCopyStringsFile
+x/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/en.lproj/InfoPlist.strings
+xCalendarDemo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy CalendarDemo/en.lproj/InfoPlist.strings125"CopyStringsFile build/Debug-iphonesimulator/NVCalendar.app/en.lproj/InfoPlist.strings CalendarDemo/en.lproj/InfoPlist.strings016d6f5b31c8b841^1616705b31c8b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/en.lproj/InfoPlist.strings0000000000000000^589"CopyStringsFile build/Debug-iphonesimulator/NVCalendar.app/en.lproj/InfoPlist.strings CalendarDemo/en.lproj/InfoPlist.strings    cd /Users/macmini09/Desktop/CalendarDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/en.lproj -- CalendarDemo/en.lproj/InfoPlist.strings36"94BAED9E-8D43-4C9E-BA34-8F953AF9B4EF-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CGenerateDSYMFile /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app.dSYM /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar
+s415773031.712675
+e415773031.785133
+r1
+xGenerateDSYMFile
+x/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app.dSYM
+x/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Generate /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app.dSYM118"GenerateDSYMFile build/Debug-iphonesimulator/NVCalendar.app.dSYM build/Debug-iphonesimulator/NVCalendar.app/NVCalendare38bb66731c8b841^32ffc86731c8b841^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app.dSYM00386006dfffdf42^640"GenerateDSYMFile build/Debug-iphonesimulator/NVCalendar.app.dSYM build/Debug-iphonesimulator/NVCalendar.app/NVCalendar    cd /Users/macmini09/Desktop/CalendarDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar -o /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app.dSYM36"7DE37FCC-EA65-4CD1-913B-F682CFBAB313-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CLd /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar normal i386
+s415773018.089133
+e415773019.425742
+r1
+xLd
+x/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar
+xnormal
+xi386
+d/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/ViewController.o
+d/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.o
+d/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/AppDelegate.o
+d/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar68"Ld build/Debug-iphonesimulator/NVCalendar.app/NVCalendar normal i38656f1165a31c8b841^48fe6c5b31c8b841^---0#0#1#--1371"Ld build/Debug-iphonesimulator/NVCalendar.app/NVCalendar normal i386    cd /Users/macmini09/Desktop/CalendarDemo    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator -F/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator -filelist /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework QuartzCore -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/Objects-normal/i386/NVCalendar_dependency_info.dat -o /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/NVCalendar36"00E7AFF6-CE8A-4538-82EB-799A45A1CA88-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CProcessInfoPlistFile /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Info.plist /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Info.plist
+s415773031.699128
+e415773031.703830
+r1
+xProcessInfoPlistFile
+x/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Info.plist
+x/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Info.plist109"ProcessInfoPlistFile build/Debug-iphonesimulator/NVCalendar.app/Info.plist CalendarDemo/NVCalendar-Info.plist6119b36731c8b841^302fb46731c8b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Info.plist0000000000000000^867"ProcessInfoPlistFile build/Debug-iphonesimulator/NVCalendar.app/Info.plist CalendarDemo/NVCalendar-Info.plist    cd /Users/macmini09/Desktop/CalendarDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Info.plist -genpkginfo /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/assetcatalog_generated_info.plist -o /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app/Info.plist36"98F72BBA-4D28-4137-BAD6-0FB6A9B591D7-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CProcessPCH /Users/macmini09/Library/Developer/Xcode/DerivedData/NVCalendar-bnhakhtlnselljaavktayifmswwc/Index/PrecompiledHeaders/NVCalendar-Prefix-hdnutfxembfraxbypdzjnrlskeuf_ast/NVCalendar-Prefix.pch.pch CalendarDemo/NVCalendar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.pch CalendarDemo/NVCalendar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415773015.851425
+e415773016.882140
+r1
+xProcessPCH
+x/var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.pch
+xCalendarDemo/NVCalendar-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile CalendarDemo/NVCalendar-Prefix.pch304"ProcessPCH /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.pch CalendarDemo/NVCalendar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0130da5731c8b841^74d4e15831c8b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Prefix.pch0000000000000000^3691"ProcessPCH /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.pch CalendarDemo/NVCalendar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macmini09/Desktop/CalendarDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/macmini09/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-generated-files.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-own-target-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-all-target-headers.hmap -iquote /Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/NVCalendar-project-headers.hmap -I/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources/i386 -I/Users/macmini09/Desktop/CalendarDemo/build/NVCalendar.build/Debug-iphonesimulator/NVCalendar.build/DerivedSources -F/Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.d -c /Users/macmini09/Desktop/CalendarDemo/CalendarDemo/NVCalendar-Prefix.pch -o /var/folders/_8/pcgx88kn4dd9t9vfb37t7l8c0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/NVCalendar-Prefix-hetzqolollhixnfzxiukellyjmwv/NVCalendar-Prefix.pch.pch36"12BE5798-88A2-4642-B20F-5790C8D8F84F-
+bD4746A72-6CE1-4EA2-B7B4-BB2BDFFB5B39
+
+CTouch /Users/macmini09/Desktop/CalendarDemo/build/Debug-iphonesimulator/NVCalendar.app
+r0
+
