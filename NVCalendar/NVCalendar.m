@@ -1,11 +1,3 @@
-//
-//  NVCalendar.m
-//  CalendarDemo
-//
-//  Created by Nirav's Macmini on 17/01/14.
-//  Copyright (c) 2014 Nirav's Macmini. All rights reserved.
-//
-
 #import "NVCalendar.h"
 @implementation NVCalendar
 
@@ -51,7 +43,6 @@
     [self addSubview:lblMonthName];
     for (int d=1; d<=range.length;d++)
     {
-        
         while (d < 8) {
         
             [self createWeekDays:(int)d];
@@ -64,7 +55,7 @@
             }completion:^(BOOL finished) {
                 
             }];
-            
+
             UILabel *lblForDate=[[UILabel alloc]initWithFrame:CGRectMake(x, y, day_label_width, day_label_height)];
             lblForDate.text=[NSString stringWithFormat:@"%d",d-startWithDay+1];
             lblForDate.textColor = [UIColor blackColor];
@@ -75,9 +66,6 @@
             lblForDate.adjustsFontSizeToFitWidth = YES;
             lblForDate.textAlignment = NSTextAlignmentCenter;
             lblForDate.font = [UIFont fontWithName:@"HelveticaNeue-Thin" size:10.0];
-            
-
-            
             
             BOOL isCurrentDay = [self checkDate:add1DayDate];
             if(isCurrentDay)
@@ -98,11 +86,10 @@
 
             }completion:^(BOOL finished) {
                 lblForDate.alpha = 1.0;
-
             }];
             UITapGestureRecognizer *singleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(lblDateTapped:)];
             singleTap.numberOfTapsRequired = 1;
-            singleTap.view.tag =d+2000;
+            singleTap.view.tag = d+2000;
             [lblForDate addGestureRecognizer:singleTap];
             [self addSubview:lblForDate];
             add1DayDate = [add1DayDate dateByAddingTimeInterval:24*60*60];
@@ -115,7 +102,6 @@
         {
             x=2;
             y+=15;
-            
         }
         else
         {
@@ -127,7 +113,6 @@
 #pragma mark - Tapping Date
 -(void)lblDateTapped:(UITapGestureRecognizer *)tap//called when any date will be tapped
 {
-
     NSLog(@"tap %d",tap.view.tag);
     UILabel *lbl = (UILabel *)[self viewWithTag:tap.view.tag];
      [self animationDrawCircleTime:0.6 label:lbl  completion:^{
@@ -162,8 +147,6 @@
     circle.lineWidth = 2;
     circle.lineCap=kCALineCapRound;
     circle.lineJoin=kCALineJoinRound;
-    
-    
     //gradient color
     CAGradientLayer *gradientLayer=[CAGradientLayer layer];
     gradientLayer.startPoint=CGPointMake(0.5, 1.0);
@@ -232,7 +215,6 @@
     lblNameOfDay.backgroundColor = [UIColor clearColor];
     lblNameOfDay.textColor = [UIColor colorWithRed:250.0/255.0 green:156.0/255.0 blue:120.0/255.0 alpha:1.0];
     [self addSubview:lblNameOfDay];
-
 }
 #pragma mark - For Matching Date
 -(BOOL)checkDate:(NSDate *)currentDate//for checking current date.....
@@ -261,7 +243,6 @@
         }
 
     }
-    
     return NO;
 }
 /*

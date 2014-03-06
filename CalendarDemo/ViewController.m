@@ -40,7 +40,7 @@
         
         NSDateFormatter *dt = [[NSDateFormatter alloc] init];
         NSString *strMonthName = [[dt monthSymbols] objectAtIndex:month-1];//January,Febryary,March etc...
-        strMonthName = [ strMonthName stringByAppendingString:[NSString  stringWithFormat:@"- %d",year]];
+        strMonthName = [strMonthName stringByAppendingString:[NSString  stringWithFormat:@"- %d",year]];
         
         X = isLeft ? 10 : 164;
        
@@ -60,6 +60,7 @@
         vwCal.layer.cornerRadius = 5.0;
         vwCal.layer.borderColor = [UIColor blackColor].CGColor;
         vwCal.layer.borderWidth = 2.0;
+        
         vwCal = [vwCal createCalOfDay:day Month:month Year:year MonthName:strMonthName];
         [viewTmp addSubview:vwCal];
         isLeft = !isLeft;

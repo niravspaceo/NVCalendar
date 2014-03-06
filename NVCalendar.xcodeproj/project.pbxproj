@@ -21,8 +21,8 @@
 		540A7942188938020080C8D9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 540A7924188938010080C8D9 /* UIKit.framework */; };
 		540A794A188938020080C8D9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 540A7948188938020080C8D9 /* InfoPlist.strings */; };
 		540A794C188938020080C8D9 /* CalendarDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 540A794B188938020080C8D9 /* CalendarDemoTests.m */; };
-		540A7957188943280080C8D9 /* NVCalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 540A7956188943280080C8D9 /* NVCalendar.m */; };
 		541DB8F1188A4AA000CCFAA0 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 541DB8F0188A4AA000CCFAA0 /* QuartzCore.framework */; };
+		546B01A918C8314D00D1FF5D /* NVCalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 546B01A718C8314D00D1FF5D /* NVCalendar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,9 +55,9 @@
 		540A7947188938020080C8D9 /* NVCalendarTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NVCalendarTests-Info.plist"; sourceTree = "<group>"; };
 		540A7949188938020080C8D9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		540A794B188938020080C8D9 /* CalendarDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalendarDemoTests.m; sourceTree = "<group>"; };
-		540A7955188943280080C8D9 /* NVCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NVCalendar.h; sourceTree = "<group>"; };
-		540A7956188943280080C8D9 /* NVCalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NVCalendar.m; sourceTree = "<group>"; };
 		541DB8F0188A4AA000CCFAA0 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		546B01A718C8314D00D1FF5D /* NVCalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NVCalendar.m; path = NVCalendar/NVCalendar.m; sourceTree = SOURCE_ROOT; };
+		546B01A818C8314D00D1FF5D /* NVCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NVCalendar.h; path = NVCalendar/NVCalendar.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,8 +163,8 @@
 		5467E106188CE0FA002045FD /* NVCalendar */ = {
 			isa = PBXGroup;
 			children = (
-				540A7955188943280080C8D9 /* NVCalendar.h */,
-				540A7956188943280080C8D9 /* NVCalendar.m */,
+				546B01A718C8314D00D1FF5D /* NVCalendar.m */,
+				546B01A818C8314D00D1FF5D /* NVCalendar.h */,
 			);
 			name = NVCalendar;
 			sourceTree = "<group>";
@@ -267,7 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				540A7937188938020080C8D9 /* ViewController.m in Sources */,
-				540A7957188943280080C8D9 /* NVCalendar.m in Sources */,
+				546B01A918C8314D00D1FF5D /* NVCalendar.m in Sources */,
 				540A7931188938020080C8D9 /* AppDelegate.m in Sources */,
 				540A792D188938020080C8D9 /* main.m in Sources */,
 			);

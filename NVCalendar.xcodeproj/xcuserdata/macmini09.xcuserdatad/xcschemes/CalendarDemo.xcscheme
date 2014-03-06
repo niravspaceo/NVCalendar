@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "540A791C188938010080C8D9"
-               BuildableName = "CalendarDemo.app"
+               BuildableName = "NVCalendar.app"
                BlueprintName = "NVCalendar"
                ReferencedContainer = "container:NVCalendar.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "540A793D188938020080C8D9"
-               BuildableName = "CalendarDemoTests.xctest"
+               BuildableName = "NVCalendarTests.xctest"
                BlueprintName = "NVCalendarTests"
                ReferencedContainer = "container:NVCalendar.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "540A791C188938010080C8D9"
-            BuildableName = "CalendarDemo.app"
+            BuildableName = "NVCalendar.app"
             BlueprintName = "NVCalendar"
             ReferencedContainer = "container:NVCalendar.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "540A791C188938010080C8D9"
-            BuildableName = "CalendarDemo.app"
+            BuildableName = "NVCalendar.app"
             BlueprintName = "NVCalendar"
             ReferencedContainer = "container:NVCalendar.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "540A791C188938010080C8D9"
-            BuildableName = "CalendarDemo.app"
+            BuildableName = "NVCalendar.app"
             BlueprintName = "NVCalendar"
             ReferencedContainer = "container:NVCalendar.xcodeproj">
          </BuildableReference>
